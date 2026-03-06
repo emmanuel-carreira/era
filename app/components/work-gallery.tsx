@@ -34,7 +34,7 @@ const mockups = [
   },
   {
     id: 4,
-    title: "Chá de Bebê Delicado",
+    title: "Chá de Bebê de Sophie",
     style: "Botânico Natural",
     description: "Design suave com elementos naturais para celebrar a chegada do bebê",
     image: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&h=500&fit=crop&crop=center",
